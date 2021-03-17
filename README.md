@@ -1,1 +1,0 @@
-# sap_hana_native
